@@ -11,5 +11,5 @@ function multiply(a,b){
   return a * b
 }
 function increment(n){
-  return n += 2
+  return n += 1
 }
