@@ -1,3 +1,3 @@
-funtionadd(){
-  80 + 1
-}
+funtionadd() 
+  80 + 1;
+  
