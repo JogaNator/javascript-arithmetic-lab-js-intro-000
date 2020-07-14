@@ -1,1 +1,3 @@
-funtion(add) { 1+80}
+funtionadd(){
+  80 + 1
+}
